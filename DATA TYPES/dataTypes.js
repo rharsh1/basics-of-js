@@ -11,9 +11,6 @@ for(i=0;i<arr.length;i++){
 console.log(sum)
 console.log(add)
 
-// string
 
-let str = rohit;
-let str1 = sharma;
-str2 = str + str1
-console.log(str2)
+
+ hdhdhdhdhjjkl;;;;kljk
