@@ -10,7 +10,3 @@ for(i=0;i<arr.length;i++){
 }
 console.log(sum)
 console.log(add)
-
-
-
- hdhdhdhdhjjkl;;;;kljk
